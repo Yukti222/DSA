@@ -9,6 +9,7 @@ void name(int count, string your_name){
     cout<< your_name<<endl;
     count++;
     name(count, your_name);
+    return;
 }
 int main(){
     string your_name;
