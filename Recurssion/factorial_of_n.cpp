@@ -1,3 +1,4 @@
+//by using parameterized recursion we can find the factorial of n
 #include <iostream>
 using namespace std;
 void multiple(int i, int current_multiple){
